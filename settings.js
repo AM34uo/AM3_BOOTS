@@ -26,10 +26,10 @@ global.ownernomer = "201098906252" //ur number
 global.premium = ['201098906252'] //ur premium number
 global.botname = '❤️AM3 ᗷOT❤️' //ur bot name
 global.linkz = "https://instagram.com/am3.wav" //your theme url which will be displayed on whatsapp
-global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
-global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
+global.websitex = "https://telegra.ph/file/c3103515330c90f0425a7.jpg" //ur website to be displayed
+global.botscript = 'https://youtube.com/@AM3_DEV' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
+global.packname = "⍣❤️AM3 ᗷOT❤️⍣" //ur sticker watermark packname
 global.author = "⍣01098906252⍣" //ur sticker watermark author
 global.wm = "❤️AM3 ᗷOT❤️." //ur watermark
 
